@@ -5,9 +5,7 @@ gem 'mail', '~> 2.6', '>= 2.6.3'
 gem 'hashie'
 gem 'awesome_print',git: 'git@github.com:awesome-print/awesome_print.git'
 gem 'octokit', '~>2.0' 
-# group: :test do 
-#   gem "rspec"
-# end
+
 
 group :development do
 gem "pry"
